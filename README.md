@@ -141,10 +141,19 @@ This project transforms advertising strategy from intuition-based to data-driven
 
 ---
 
+## Example Visualizations
+
+- Opportunity Score by stadium
+- Advertising effectiveness by placement
+- State-level advertising opportunity comparison
+- Cost vs. estimated reach
+
+ ---
+ 
 ## Project Structure
 
-- `.ipynb` → full analysis and model  
-- `.pdf` → project report  
+- `stadium_political_advertising_analysis.ipynb` → full analysis and model  
+- `stadium & live event political advertising opportunities analysis.pdf` → project report  
 - `.csv` → dataset  
 
 ---
